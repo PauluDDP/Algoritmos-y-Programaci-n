@@ -1,3 +1,4 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 //Escribir un algoritmo que calcule la velocidad de un proyectil.
 //Expresar el resultado en metros/segundo.
 //Velocidad <- Espacio / Tiempo
@@ -13,3 +14,4 @@ Algoritmo SEC08_PDDP
 	//Muestra el resultado en la consola
 	Escribir "La velocidad es: ", Velocidad, " m/s";
 FinAlgoritmo
+

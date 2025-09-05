@@ -1,22 +1,24 @@
+//Nombre: Paula Daniela Deloya Partida_ID: 00594660_Licenciatura: Ingenier铆a en Animaci贸n Digital_Semestre: 1_Ciclo: 202560
 //Escribir un algoritmo que sume, reste, multiplique y
-//divida dos n鷐eros ENTEROS
+//divida dos n煤meros ENTEROS
 Algoritmo SEC03_PDDP
 	Definir A, B Como Enteros;
 	Definir S, R, D, M Como Enteros;
 	
-	Escribir "Introduzca n鷐ero entero: ";
+	Escribir "Introduzca n煤mero entero: ";
 	Leer A;
-	Escribir "Introduzca otro n鷐ero entero: ";
+	Escribir "Introduzca otro n煤mero entero: ";
 	Leer B;
 	//Realizar las operaciones
 	S <- A + B;
 	R <- A - B;
 	M <- A * B;
-	//Divisi髇 entera
+	//Divisi贸n entera
 	D <- trunc (A / B)
 	//Muestra en la consola los resultados de las operaciones
 	Escribir "La suma es: ", S;
 	Escribir "La resta es: ", R;
-	Escribir "La multiplicaci髇 es: ", M;
-	Escribir "La divisi髇 es: " D;
+	Escribir "La multiplicaci贸n es: ", M;
+	Escribir "La divisi贸n es: " D;
+
 FinAlgoritmo

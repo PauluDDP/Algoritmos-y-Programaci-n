@@ -1,4 +1,4 @@
-//Nombre: Paula Daniela Deloya Partida_ID: 00594660_Licenciatura: Ingeniería en Animación Digital_Semestre: 1_Ciclo: 202560
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 //Escribir un algoritmo que sume, reste, multiplique y
 //divida dos números ENTEROS
 Algoritmo SEC03_PDDP
@@ -22,3 +22,4 @@ Algoritmo SEC03_PDDP
 	Escribir "La división es: " D;
 
 FinAlgoritmo
+

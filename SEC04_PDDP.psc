@@ -1,4 +1,4 @@
-//Nombre: Paula Daniela Deloya Partida_ID: 00594660_Licenciatura: Ingeniería en Animación Digital_Semestre: 1_Ciclo: 202560
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 Algoritmo SEC04_PDDP
 	Definir A, B Como Enteros;
 	Definir S, D, R, M Como Enteros;
@@ -16,3 +16,4 @@ Algoritmo SEC04_PDDP
 	Escribir "La división es: ", D;
 
 FinAlgoritmo
+

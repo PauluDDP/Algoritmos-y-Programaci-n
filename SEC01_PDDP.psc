@@ -1,4 +1,4 @@
-//Nombre: Paula Daniela Deloya Partida_ID: 00594660_Licenciatura: Ingeniería en Animación Digital_Semestre: 1_Ciclo: 202560
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 //Escribir un algoritmo que sume dos números A = 4 B = 3
 Algoritmo SEC01_PDDP
 	Definir A, B, C Como Enteros;
@@ -12,3 +12,4 @@ Algoritmo SEC01_PDDP
 	Escribir C;
 
 FinAlgoritmo
+

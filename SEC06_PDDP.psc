@@ -1,3 +1,4 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 Algoritmo SEC06_PDDP
 	Definir Base, Altura Como Reales;
 	
@@ -6,5 +7,6 @@ Algoritmo SEC06_PDDP
 	Escribir "Introduzca la altura: ";
 	Leer Altura;
 	
-	Escribir "El �rea del tri�ngulo es: ", (Base * Altura) / 2;
+	Escribir "El área del triángulo es: ", (Base * Altura) / 2;
+
 FinAlgoritmo

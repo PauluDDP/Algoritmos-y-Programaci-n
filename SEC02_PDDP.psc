@@ -1,3 +1,4 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 Algoritmo SEC02_PDDP
 	Definir numero1 Como Entero;
 	Definir numero2 Como Entero;
@@ -19,3 +20,5 @@ Algoritmo SEC02_PDDP
 	//Mostrar el valor de resultado en la consola
 	Escribir resultado;
 FinAlgoritmo
+
+

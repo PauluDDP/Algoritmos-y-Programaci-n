@@ -1,9 +1,10 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingenier√≠a en Animaci√≥n Digital_Semestre:1_202560
 Algoritmo SEC04_PDDP
 	Definir A, B Como Enteros;
 	Definir S, D, R, M Como Enteros;
 	Escribir "Introduzca numero entero: ";
 	Leer A;
-	Escribir "Introduzca otro n˙mero entero: ";
+	Escribir "Introduzca otro n√∫mero entero: ";
 	Leer B;
 	S <- A + B;
 	R <- A - B;
@@ -11,6 +12,8 @@ Algoritmo SEC04_PDDP
 	D <- A / B;
 	Escribir "La suma es: ", S;
 	Escribir "La resta es: ", R;
-	Escribir "La multiplicaciÛn es: ", M;
-	Escribir "La divisiÛn es: ", D;
+	Escribir "La multiplicaci√≥n es: ", M;
+	Escribir "La divisi√≥n es: ", D;
+
 FinAlgoritmo
+

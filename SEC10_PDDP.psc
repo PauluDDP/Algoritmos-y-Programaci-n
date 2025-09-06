@@ -1,12 +1,14 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingenier√≠a en Animaci√≥n Digital_Semestre:1_202560
 Algoritmo SEC10_PDDP
 	Definir A, B, C Como Enteros
 	
-	Escribir "Se evaluar· la expresiÛn (A+7*C)/(B+2-A)+2*B, introduzca los datos";
+	Escribir "Se evaluar√° la expresi√≥n (A+7*C)/(B+2-A)+2*B, introduzca los datos";
 	Escribir "Introduzca valor de A: ";
 	Leer A;
 	Escribir "Introduzca valor de B: ";
 	Leer B;
 	Escribir "Introduzca valor de C: ";
 	Leer C; 
-	Escribir "La valuaciÛn de la ecuaciÛn es: ", (A + 7 * C) / (B + 2 - A) + 2 * B
+	Escribir "La valuaci√≥n de la ecuaci√≥n es: ", (A + 7 * C) / (B + 2 - A) + 2 * B
 FinAlgoritmo
+

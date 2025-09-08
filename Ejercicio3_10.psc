@@ -1,3 +1,4 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 Algoritmo Ejercicio3_10
 	
 	Escribir "1.- ", 7 div 2
@@ -10,3 +11,4 @@ Algoritmo Ejercicio3_10
 	Escribir "8.- ", (7 * (10 - 5) mod 3) * 4 + 9
 	
 FinAlgoritmo
+

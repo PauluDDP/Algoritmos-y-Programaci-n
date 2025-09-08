@@ -1,3 +1,4 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 Algoritmo Ejercicio3_6
 	Definir b Como Entero
 	Definir a Como Entero
@@ -53,3 +54,4 @@ Algoritmo Ejercicio3_6
 	
 	
 FinAlgoritmo
+

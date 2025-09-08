@@ -1,3 +1,4 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 Algoritmo Ejercicio3_8
 	Definir A, B, C Como Entero
 	
@@ -10,3 +11,4 @@ Algoritmo Ejercicio3_8
 	Escribir "(((B + C) / 2 * A + 10) 3 * B) -6 es..:"  (B + C) / 2 * A + 10 * 3 * B - 6;
 	
 FinAlgoritmo
+

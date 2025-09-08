@@ -1,6 +1,7 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingenier√≠a en Animaci√≥n Digital_Semestre:1_202560
 Algoritmo Ejercicio3_11
 	//Encontrar el valor de las siguientes expresiones o decir si
-	//no es una expresiÛn v·lida
+	//no es una expresi√≥n v√°lida
 	
 	Escribir "1.- ", 9 -5- 3;
 	Escribir "2.- ", 2 div 3 + 3 / 5;
@@ -17,7 +18,7 @@ Algoritmo Ejercicio3_11
 	cuadrado <- 4 * 4
 	resultado <- Raiz(cuadrado)
 	
-	// Calcular raÌz cuadrada de 4 y elevar al cuadrado el resultado
+	// Calcular ra√≠z cuadrada de 4 y elevar al cuadrado el resultado
 	
 	raizValor <- Raiz(4)
 	resultado <- raizValor * raizValor
@@ -26,3 +27,4 @@ Algoritmo Ejercicio3_11
 	Escribir "12.- ", trunc(815) + redondeo (815);
 	
 FinAlgoritmo
+

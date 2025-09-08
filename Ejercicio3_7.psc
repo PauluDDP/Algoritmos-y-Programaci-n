@@ -1,3 +1,4 @@
+//Paula Daniela Deloya Partida_ID:00594660_Ingeniería en Animación Digital_Semestre:1_202560
 Algoritmo Ejercicio3_7
 	Definir b Como Entero
 	Definir c Como Entero
@@ -17,3 +18,4 @@ Algoritmo Ejercicio3_7
 	Escribir "(x^2 + y^2)^(1/2) = " (x^2 + ye^2) ^ (1 / 2);
 	
 FinAlgoritmo
+
